@@ -5,5 +5,4 @@ setup(name='binance',
       py_modules=['binance'],
       description='Binance API wrapper',
       url='https://github.com/toshima/binance',
-      author='Takaki Oshima',
-      author_email='t@takakioshima.com')
+      author='toshima')
